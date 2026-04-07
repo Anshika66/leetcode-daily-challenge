@@ -1,23 +1,41 @@
 class Solution {
 public:
-    int minEatingSpeed(vector<int>& piles, int h) {
-        int left = 1;
-        int right = 1000000000;
-        
-        while(left <= right){
-            int mid = left + (right - left) / 2;
-            if(canEatInTime(piles, mid, h)) right = mid - 1;
-            else left = mid + 1;
+    int maxElement(vector<int>&piles){
+        int n = piles.size();
+        int maxi = INT_MIN;
+        for(int i = 0;i< n ; i++){
+            maxi = max(maxi , piles[i]);
         }
-        return left;
+        return maxi;
     }
-    bool canEatInTime(vector<int>& piles, int k, int h){
-        int hours = 0;
-        for(int pile : piles){
-            int div = pile / k;
-            hours += div;
-            if(pile % k != 0) hours++;
+
+    long long requiredTime(vector<int>&piles , int mid){
+        long long totalM = 0;
+        int n = piles.size();
+        for(int i = 0;i<n ; i++){
+            totalM += ceil((double)piles[i]/mid);
         }
-        return hours <= h;
+        return totalM;
+    }
+    int minEatingSpeed(vector<int>& piles, int h) {
+        int n  = piles.size();
+        int low = 1;
+        int high = maxElement(piles);
+        int ans = INT_MAX;
+
+        while(low <= high){
+            int mid = (low+high)/2;
+
+            long long  totalhrs =  requiredTime(piles  , mid);
+
+            if(totalhrs <= h){
+                ans = mid;
+                high = mid-1;
+            }else{
+                low = mid+1;
+            }
+        }
+        return ans ;
+        
     }
 };
