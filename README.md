@@ -14,4 +14,12 @@
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/1189-maximum-number-of-balloons) |
+## Array
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0875-koko-eating-bananas) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
