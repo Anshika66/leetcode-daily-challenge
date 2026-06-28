@@ -19,6 +19,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0074-search-a-2d-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0875-koko-eating-bananas) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/2952-minimum-number-of-coins-to-be-added) |
 ## Binary Search
 |  |
@@ -32,9 +33,11 @@
 ## Greedy
 |  |
 | ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/2952-minimum-number-of-coins-to-be-added) |
 ## Sorting
 |  |
 | ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/2952-minimum-number-of-coins-to-be-added) |
 <!---LeetCode Topics End-->
