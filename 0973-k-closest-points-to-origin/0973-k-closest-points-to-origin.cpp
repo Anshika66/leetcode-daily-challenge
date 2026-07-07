@@ -1,25 +1,45 @@
 class Solution {
 public:
-    int distance(int x, int y) {
-        return x * x + y * y;
-    }
+    struct Compare {
+        bool operator()(pair<vector<int>, float> a, pair<vector<int>, float> b) {
 
+            // Larger distance should be on top
+            if (a.second != b.second)
+                return a.second < b.second;
+            return false;
+        }
+    };
+    float distance(int x , int y){
+        return sqrt(x*x + y*y);
+    }
     vector<vector<int>> kClosest(vector<vector<int>>& points, int k) {
-        priority_queue<pair<int, int>> heap;
-        for (int i = 0; i < points.size(); i++) {
-            int dist = distance(points[i][0], points[i][1]);
-            if (heap.size() < k) {
-                heap.push({dist, i});
-            } else if (dist < heap.top().first) {
-                heap.pop();
-                heap.push({dist, i});
+        int n = points.size();
+ 
+
+        priority_queue<pair<vector<int>, float>,
+                       vector<pair<vector<int>, float>>,
+                       Compare> pq;
+
+        for(auto it : points){
+            pair<vector<int> , float> curr= {it , distance(it[0] , it[1])};
+
+            if(pq.size() <k){
+                pq.push(curr);
+            }
+            else{
+                if(curr.second  < pq.top().second){
+                    pq.pop();
+                    pq.push(curr);
+                }
             }
         }
-        vector<vector<int>> ans;
-        while (!heap.empty()) {
-            ans.push_back(points[heap.top().second]);
-            heap.pop();
+        vector<vector<int>>ans;
+        while(!pq.empty()){
+            ans.push_back(pq.top().first);
+            pq.pop();
         }
-        return ans;
+
+        return ans ;
+     
     }
 };
