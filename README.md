@@ -29,6 +29,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0692-top-k-frequent-words) |
 | [0875-koko-eating-bananas](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0875-koko-eating-bananas) |
@@ -54,6 +55,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0502-ipo](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0767-reorganize-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/2952-minimum-number-of-coins-to-be-added) |
@@ -63,6 +65,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0767-reorganize-string) |
@@ -82,6 +85,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0767-reorganize-string) |
