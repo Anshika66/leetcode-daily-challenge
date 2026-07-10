@@ -114,6 +114,7 @@
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -127,4 +128,16 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0658-find-k-closest-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
