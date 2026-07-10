@@ -12,6 +12,7 @@
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0344-reverse-string) |
 | [0692-top-k-frequent-words](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/1189-maximum-number-of-balloons) |
@@ -123,6 +124,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0344-reverse-string) |
 | [0658-find-k-closest-elements](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0658-find-k-closest-elements) |
 ## Sliding Window
 |  |
