@@ -1,22 +1,33 @@
 class Solution {
 public:
-    void solve(int n , int open , int close , string temp , vector<string>&ans){
-        if(temp.length() == 2*n ){
-            ans.push_back(temp);
-            return ; 
-        }
-        if(open < n)
-            solve( n , open +1 , close , temp +'(' , ans );
-        if(close < open )
-            solve(n , open , close + 1 , temp + ')' , ans);
+    void solve(int n , int open , int close , string &tmp , vector<string>&ans){
+       if(tmp.length() == 2*n){
+        ans.push_back(tmp);
+        return ;
+       }
+
+       //open 
+       if(open < n){
+        tmp.push_back('(');
+        solve(n , open +1 , close , tmp , ans);
+        tmp.pop_back();
+       }
+
+       //close
+       if(close < open){
+        tmp.push_back(')');
+        solve(n , open , close+1 , tmp , ans);
+        tmp.pop_back();
+       }
     }
     vector<string> generateParenthesis(int n) {
-        vector<string> ans ; 
-        string temp = "";
-        int open = 0;
+        string tmp="" ;
         int close = 0;
-        solve( n ,0 , 0 ,  temp , ans );
-        return ans;
-        
+        int open = 0;
+
+        vector<string>ans;
+
+        solve(n , 0 , 0 , tmp , ans);
+        return ans ;
     }
 };
