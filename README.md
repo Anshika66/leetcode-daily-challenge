@@ -15,6 +15,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0344-reverse-string) |
 | [0692-top-k-frequent-words](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0767-reorganize-string) |
@@ -138,6 +139,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -153,4 +155,5 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0039-combination-sum) |
+| [0131-palindrome-partitioning](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
