@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0039-combination-sum) |
+| [0066-plus-one](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0074-search-a-2d-matrix) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0347-top-k-frequent-elements) |
@@ -120,6 +121,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
