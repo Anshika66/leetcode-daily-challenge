@@ -15,7 +15,7 @@ public:
         if(node1 == nullptr && node2 == nullptr){
             return true;
         }
-        if((node1 == nullptr && node2 != nullptr) || (node1 != nullptr && node2 == nullptr)){
+        if(node1 == nullptr  || node2 == nullptr){
             return false;
         }
 
