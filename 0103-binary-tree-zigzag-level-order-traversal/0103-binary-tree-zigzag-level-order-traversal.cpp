@@ -15,15 +15,23 @@ public:
 
         queue<TreeNode*> q ; 
         q.push(node);
-        int count = 0;
+        bool leftToRight = 1;
 
         while(!q.empty()){
             int levelSize = q.size();
-            vector<int>temp;
+            vector<int>temp(levelSize);
+            int first = 0;
+            int last = levelSize - 1;
             while(levelSize--){
                 TreeNode* t = q.front();
                 q.pop();
-                temp.push_back(t->val);
+                if(leftToRight){
+                    temp[first] = t->val;
+                    first++;
+                }else{
+                    temp[last] = t->val;
+                    last--;
+                }
 
                 if(t->left != nullptr){
                     q.push(t->left);
@@ -33,11 +41,8 @@ public:
                     q.push(t->right);
                 }
             }
-            if(count%2 == 1){
-                reverse(temp.begin() , temp.end());
-            }
-            count++;
             ans.push_back(temp);
+            leftToRight = 1 - leftToRight;
         }
     }
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
