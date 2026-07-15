@@ -176,6 +176,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0572-subtree-of-another-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0951-flip-equivalent-binary-trees) |
 ## Depth-First Search
@@ -187,6 +188,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0572-subtree-of-another-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0951-flip-equivalent-binary-trees) |
 ## Binary Tree
@@ -201,6 +203,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0572-subtree-of-another-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0951-flip-equivalent-binary-trees) |
 ## Breadth-First Search
