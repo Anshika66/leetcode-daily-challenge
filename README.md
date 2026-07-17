@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0347-top-k-frequent-elements) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0692-top-k-frequent-words) |
@@ -34,6 +35,7 @@
 | [0039-combination-sum](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0074-search-a-2d-matrix) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -87,6 +89,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0973-k-closest-points-to-origin) |
@@ -179,6 +182,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0113-path-sum-ii) |
@@ -230,6 +234,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0113-path-sum-ii) |
