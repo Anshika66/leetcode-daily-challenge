@@ -315,4 +315,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0200-number-of-islands) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
