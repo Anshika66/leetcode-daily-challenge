@@ -49,6 +49,7 @@
 | [0630-course-schedule-iii](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0692-top-k-frequent-words) |
+| [0746-min-cost-climbing-stairs](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0994-rotting-oranges) |
@@ -161,6 +162,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0746-min-cost-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
