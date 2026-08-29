@@ -23,6 +23,7 @@
 | [0344-reverse-string](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0344-reverse-string) |
 | [0692-top-k-frequent-words](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0767-reorganize-string) |
+| [0844-backspace-string-compare](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0844-backspace-string-compare) |
 | [1189-maximum-number-of-balloons](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
@@ -159,6 +160,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0658-find-k-closest-elements) |
+| [0844-backspace-string-compare](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0844-backspace-string-compare) |
 ## Sliding Window
 |  |
 | ------- |
@@ -195,6 +197,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0844-backspace-string-compare](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0844-backspace-string-compare) |
 ## Tree
 |  |
 | ------- |
@@ -363,4 +366,8 @@
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
