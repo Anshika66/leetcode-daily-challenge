@@ -2,32 +2,32 @@ class Solution {
 public:
     int findUnsortedSubarray(vector<int>& nums) {
         int n = nums.size();
-        vector<int>copy;
 
-        for(int i = 0 ;i < n ; i++){
-            copy.push_back(nums[i]);
-        }
+        int i = 0 ;
+        int j = n-1;
+        int mini = INT_MAX;
+        int maxi = INT_MIN;
+        int left  = -1;
+        int right = -1 ;
 
-        sort(copy.begin() , copy.end());
-
-        int first = -1 ;
-        int last = -1;
-
-        for(int i = 0 ; i < n  ; i++){
-            if(copy[i] != nums[i]){
-                if(first == -1){
-                    first = i;
-                }
-                last  = i;
+        for(int i = 0 ; i < n ; i++){
+            maxi = max(maxi , nums[i]);
+            if(maxi > nums[i]){
+                right = i;
             }
         }
 
-        if(first == -1){
+        for(int i = n-1 ; i >= 0 ; i--){
+            mini = min(mini , nums[i]);
+            if(mini < nums[i]){
+                left = i;
+            }
+        }
+
+        if(left == -1){
             return 0;
         }
 
-        int len = last - first + 1;
-        return len ; 
-        
+        return right - left +1 ;
     }
 };
