@@ -11,25 +11,25 @@
  */
 class Solution {
 public:
-    int minDepth(TreeNode* root) {
-
+    int fun(TreeNode* root){
         if(root == nullptr){
             return 0;
         }
-        if(root->left == nullptr && root->right == nullptr){
+        if(root->left == nullptr && root->right ==nullptr){
             return 1;
         }
 
         if(root->left == nullptr){
-            return 1+ minDepth(root->right);
+            return 1 + fun(root->right);
         }
-
         if(root->right == nullptr){
-            return 1+ minDepth(root->left);
+            return 1+fun(root->left);
         }
 
-
-        return 1 + min(minDepth(root->left) , minDepth(root->right));
-        
+        return 1+min(fun(root->left) , fun(root->right));
+    }
+    int minDepth(TreeNode* root) {
+        int ans  = fun(root);
+        return ans ;    
     }
 };
