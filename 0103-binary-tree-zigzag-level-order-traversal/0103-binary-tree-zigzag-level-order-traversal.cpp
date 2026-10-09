@@ -9,49 +9,56 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
 class Solution {
 public:
-    void fun(TreeNode* node, vector<vector<int>>&ans){
+    void fun(TreeNode* root, vector<vector<int>>& ans) {
+        queue<TreeNode*> q;
+        q.push(root);
 
-        queue<TreeNode*> q ; 
-        q.push(node);
-        bool leftToRight = 1;
+        bool lefttoright = true;
 
-        while(!q.empty()){
-            int levelSize = q.size();
-            vector<int>temp(levelSize);
+        while (!q.empty()) {
+            int levsize = q.size();
+            vector<int> temp(levsize);
+
             int first = 0;
-            int last = levelSize - 1;
-            while(levelSize--){
+            int last = levsize - 1;
+
+            while (levsize--) {
                 TreeNode* t = q.front();
                 q.pop();
-                if(leftToRight){
+
+                if (lefttoright == true) {
                     temp[first] = t->val;
                     first++;
-                }else{
+                } else {
                     temp[last] = t->val;
                     last--;
                 }
 
-                if(t->left != nullptr){
+                if (t->left != nullptr) {
                     q.push(t->left);
                 }
 
-                if(t->right != nullptr){
+                if (t->right != nullptr) {
                     q.push(t->right);
                 }
             }
+
             ans.push_back(temp);
-            leftToRight = 1 - leftToRight;
+            lefttoright = !lefttoright;
         }
     }
+
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
-        vector<vector<int>>ans;
-        if(root == nullptr){
+        vector<vector<int>> ans;
+
+        if (root == nullptr) {
             return ans;
         }
-        fun(root , ans);
-        return ans ;
-        
+
+        fun(root, ans);
+        return ans;
     }
 };
