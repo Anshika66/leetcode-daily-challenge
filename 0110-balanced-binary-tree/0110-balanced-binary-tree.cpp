@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    int maxi = 0;
+    bool ans = true;
 
     int height(TreeNode* root){
         if(root == nullptr){
@@ -21,28 +21,15 @@ public:
         int left = height(root->left);
         int right = height(root->right);
 
-        maxi = max(maxi , max(left , right));
+        if(abs(left - right) > 1){
+            ans = false;
+        }
 
-        return 1+ max(left , right);
+        return 1 + max(left , right);
     }
     bool isBalanced(TreeNode* root) {
-
-        if(root == nullptr){
-            return true;
-        }
-
-        int left = height(root->left);
-        int right = height(root->right);
-
-        int diff = abs(left-right);
-
-        if(diff > 1){
-            return false;
-
-
-        }
-
-        return isBalanced(root->left) && isBalanced(root->right);
+        int h = height(root);
+        return ans;
         
 	}
 };
