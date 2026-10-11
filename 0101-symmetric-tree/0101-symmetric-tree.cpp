@@ -11,12 +11,14 @@
  */
 class Solution {
 public:
+
     bool fun(TreeNode* node1 , TreeNode* node2){
         if(node1 == nullptr && node2 == nullptr){
             return true;
         }
+
         if(node1 == nullptr || node2 == nullptr){
-            return false;
+            return false ; 
         }
 
         if(node1->val != node2->val){
@@ -25,15 +27,16 @@ public:
 
         bool ans1 = fun(node1->left , node2->right);
         bool ans2 = fun(node1->right , node2->left);
-
-        return ans1 && ans2;  
+        return ans1&ans2;
     }
+    
 
     bool isSymmetric(TreeNode* root) {
-        if(root == nullptr){
-            return true;
-        }
-        bool ans = fun(root->left , root->right);
-        return ans ;
+       if(root == nullptr){
+        return true;
+       }
+
+       bool ans = fun(root->left , root->right);
+       return ans ; 
     }
 };
