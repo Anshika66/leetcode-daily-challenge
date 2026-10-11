@@ -15,7 +15,8 @@ public:
         if(node1 == nullptr && node2 == nullptr){
             return true;
         }
-        if(node1 == nullptr  || node2 == nullptr){
+
+        if(node1 == nullptr || node2 == nullptr){
             return false;
         }
 
@@ -28,8 +29,9 @@ public:
 
         return ans1 & ans2;
     }
+    
     bool isSameTree(TreeNode* p, TreeNode* q) {
-        bool ans = fun(p  , q);
-        return ans;
+       bool ans = fun(p , q);
+       return ans;
     }
 };
