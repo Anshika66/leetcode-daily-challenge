@@ -11,6 +11,7 @@
 | [0217-contains-duplicate](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0347-top-k-frequent-elements) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0767-reorganize-string) |
@@ -52,6 +53,7 @@
 | [0268-missing-number](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0502-ipo](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0502-ipo) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0630-course-schedule-iii](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0630-course-schedule-iii) |
