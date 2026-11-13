@@ -38,6 +38,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0074-search-a-2d-matrix) |
@@ -165,6 +166,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0344-reverse-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0581-shortest-unsorted-continuous-subarray) |
