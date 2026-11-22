@@ -22,6 +22,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0032-longest-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0344-reverse-string) |
 | [0692-top-k-frequent-words](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0692-top-k-frequent-words) |
@@ -181,6 +182,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0032-longest-valid-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0198-house-robber) |
@@ -205,6 +207,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0145-binary-tree-postorder-traversal) |
@@ -386,4 +389,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0268-missing-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
