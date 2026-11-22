@@ -29,6 +29,7 @@
 | [0767-reorganize-string](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0767-reorganize-string) |
 | [0844-backspace-string-compare](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0844-backspace-string-compare) |
 | [1189-maximum-number-of-balloons](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/1189-maximum-number-of-balloons) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Counting
 |  |
 | ------- |
