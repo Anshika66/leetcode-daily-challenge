@@ -68,6 +68,7 @@
 | [0994-rotting-oranges](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/1352-product-of-the-last-k-numbers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/2952-minimum-number-of-coins-to-be-added) |
 ## Binary Search
@@ -161,6 +162,7 @@
 | [0268-missing-number](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0973-k-closest-points-to-origin) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/1352-product-of-the-last-k-numbers) |
 ## Geometry
 |  |
 | ------- |
@@ -394,4 +396,16 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0032-longest-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/1352-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
