@@ -71,6 +71,7 @@
 | [1352-product-of-the-last-k-numbers](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/1352-product-of-the-last-k-numbers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/2952-minimum-number-of-coins-to-be-added) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Binary Search
 |  |
 | ------- |
@@ -163,6 +164,7 @@
 | [0509-fibonacci-number](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0973-k-closest-points-to-origin) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/1352-product-of-the-last-k-numbers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Geometry
 |  |
 | ------- |
@@ -181,6 +183,7 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0658-find-k-closest-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -408,4 +411,12 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/1352-product-of-the-last-k-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
