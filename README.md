@@ -17,6 +17,7 @@
 | [0767-reorganize-string](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0767-reorganize-string) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1189-maximum-number-of-balloons](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/1189-maximum-number-of-balloons) |
+| [3934-smallest-unique-subarray](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/3934-smallest-unique-subarray) |
 ## String
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3934-smallest-unique-subarray](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/3934-smallest-unique-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,6 +84,7 @@
 | [0658-find-k-closest-elements](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0875-koko-eating-bananas) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [3934-smallest-unique-subarray](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/3934-smallest-unique-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -343,6 +346,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/0572-subtree-of-another-tree) |
+| [3934-smallest-unique-subarray](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/3934-smallest-unique-subarray) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -419,4 +423,12 @@
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/3411-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Anshika66/leetcode-daily-challenge/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
